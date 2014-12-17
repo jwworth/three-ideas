@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.executables << 'three-ideas'
   s.date        = '2014-12-17'
   s.description = 'A gem to generate three programming project ideas.'
-  s.summary = 'Hope for greatness; expect randomness.'
+  s.summary     = 'Hope for greatness; expect randomness.'
   s.authors     = ['Jake Worth']
   s.homepage    = 'https://github.com/jwworth/three-ideas'
   s.email       = 'jake@worth-chicago.co'
