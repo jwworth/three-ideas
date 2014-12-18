@@ -21,3 +21,7 @@ Graphics software written in Joy
 User interface builders written in Ruby
 Operating systems written in SIMSCRIPT
 ```
+
+### Contributing
+
+If you'd like to contribute to Three-Ideas, please submit a pull request via Github.
