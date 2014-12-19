@@ -60,7 +60,6 @@ class ThreeIdeas
                            "Debuggers",
                            "Desktop database application development tools",
                            "Disassemblers",
-                           "Discontinued development tools",
                            "Documentation generators",
                            "Text editors",
                            "EXE packers",
