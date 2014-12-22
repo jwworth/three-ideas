@@ -8,7 +8,7 @@ Hope for greatness; expect randomness.
 
 Add to gemfile:
 ```
-gem 'three-ideas', '~> 0.0.1'
+gem 'three-ideas', '~> 0.0.2'
 ```
 Or install:
 ```
