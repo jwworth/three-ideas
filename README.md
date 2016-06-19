@@ -9,7 +9,7 @@ A gem to generate three programming project ideas.
 Add to your Gemfile:
 
 ```
-$ gem 'three-ideas'
+gem 'three-ideas'
 ```
 
 Or install:
