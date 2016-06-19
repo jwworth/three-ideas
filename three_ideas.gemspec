@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'three-ideas'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.executables << 'three_ideas'
   s.date        = '2016-06-16'
   s.description = 'A gem to generate three programming project ideas.'
