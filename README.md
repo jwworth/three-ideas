@@ -1,4 +1,4 @@
-### three-ideas
+# three-ideas
 
 > Hope for greatness; expect randomness.
 
