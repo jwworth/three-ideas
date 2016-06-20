@@ -790,6 +790,6 @@ class ThreeIdeas
     3.times do
       results << "#{CATEGORIES.sample} written in #{LANGUAGES.sample}"
     end
-    puts results
+    results
   end
 end
