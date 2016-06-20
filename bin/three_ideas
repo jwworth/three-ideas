@@ -1,4 +1,4 @@
-!#/usr/bin/env ruby
+#! /usr/bin/env ruby
 
 require 'three_ideas'
-ThreeIdeas.generate
+puts ThreeIdeas.generate
