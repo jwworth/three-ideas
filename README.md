@@ -1,5 +1,7 @@
 # three-ideas
 
+[![Circle CI](https://circleci.com/gh/jwworth/three-ideas.svg?style=svg)](https://circleci.com/gh/jwworth/three-ideas)
+
 > Hope for greatness; expect randomness.
 
 A gem to generate three programming project ideas.
